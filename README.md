@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @farizge
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Related
-- 📫 How to reach me email at farizghani94@gmail.com
+- 👀 I’m interested in Python & Web Development
+- 🌱 I’m currently learning Python & Web Development especially Frontend Web Development
+- 💞️ I’m looking to collaborate on Python or Frontend Web Development
+- 📫 How to reach me email at farizghani11@gmail.com
 
 <!---
 farizge/farizge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
