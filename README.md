@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farizge
 - 👀 I’m interested in Web Development,  UI/UX Design
-- 🌱 I’m currently learning Web Development (Frontend)
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web App Development Projects
 - 📫 How to reach me email at farizghani94@gmail.com / farizghani11@gmail.com (work)
 
