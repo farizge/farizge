@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farizge
 - 👀 I’m interested in Frontend Web Development,  UI/UX Design
-- 🌱 I’m currently learning ReactJS & Typescript
+- 🌱 I’m currently learning NextJS, Vue, NuxtJS
 - 💞️ I’m looking to collaborate on Web App Development Projects
 - 📫 How to reach me email at farizghani94@gmail.com / farizghani11@gmail.com (work)
 
